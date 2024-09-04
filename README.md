@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shivaniupadhyay2912
+- 👋 Hi, I’m @shivaniupadhyay
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html 
-- ✍️ Apart from html I m learning c  
+- 🌱 I’m currently learning cpp 
 
 <!---
 shivaniupadhyay2912/shivaniupadhyay2912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
