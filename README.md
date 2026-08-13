@@ -18,6 +18,7 @@
 
 ### Languages
 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
@@ -87,6 +88,7 @@ https://github.com/shivaniupadhyay2912/Hotel-booking-website
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/shivaniupadhyay2912
+- linkedIn:https://www.linkedin.com/in/shivaniupadyay/
 
 
 ---
