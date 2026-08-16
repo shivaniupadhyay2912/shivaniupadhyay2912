@@ -2,7 +2,7 @@
 
 <h3 align="center">Frontend Developer | MERN Stack Developer | Computer Science Student</h3>
 
----
+---  
 
 ## 👩‍💻 About Me
 
