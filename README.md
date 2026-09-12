@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani Upadhyay</h1>
 
-<h3 align="center">Frontend Developer | MERN Stack Developer | Computer Science Student</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Computer Science Student</h3>
 
 ---  
 
