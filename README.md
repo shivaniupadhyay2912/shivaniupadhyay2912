@@ -7,10 +7,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final Year B.Tech CSE Student
-- 💻 Passionate about Frontend & MERN Stack Development
-- 🌱 Currently learning Data Structures & Algorithms and Full Stack Development
+- 💻 Passionate about Full stack development & MERN Stack Development
+- 🌱 Currently learning Data Structures & Algorithms 
 - 🚀 Building real-world projects using React, Node.js, Express.js, and MongoDB
-- 🎯 Looking for Software Engineer / Frontend Developer opportunities
+- 🎯 Looking for Software Engineer / Full stack Developer opportunities
 
 ---
 
